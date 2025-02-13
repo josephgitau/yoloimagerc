@@ -2,4 +2,3 @@ streamlit
 ultralytics
 numpy
 opencv-python-headless
-threading
